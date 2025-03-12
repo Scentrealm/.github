@@ -4,6 +4,8 @@
 
 [蓝牙协议文档](https://github.com/Scentrealm/Bluetooth)
 
+[相关 Demo](https://github.com/Scentrealm/Bluetooth/tree/main/demo/BluetoothDemo)
+
 ## 气味小播(Wi-Fi版)
 
 > Wi-Fi 版本的小播依赖外网，通过 HTTP 协议进行通讯。
