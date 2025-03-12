@@ -46,12 +46,12 @@
 *脖戴设备可以集成在 PPT 中，展示某个 PPT 页面，进行气味播放*
 
 ### 脖戴式气味设备接入说明
-> 1.准备硬件设备：window系统的电脑（win7及以上版本），气味控制器，气味设备（脖戴式设备）
 
->  2.气味设备开机（绿灯慢闪），气味控制器连接到电脑上，控制器开机（红绿灯闪）
->  3.电脑安装 driver/CP210x_Windows_Drivers.zip 驱动
->  4.win7系统可能需要安装vc_redist.x86.exe/vc_redist.x64.exe 程序，您可以先运行DllTest.exe程序进行测试，如果运行未报错，则无需安装
->  5.导入 scentrealm_bcc.dll
->  6.调用连接方法，连接控制器( Scentrealm_AutoConnectCTL/Scentrealm_ManualConnectCTL)
->  7.调用唤醒方法，唤醒气味设备( Scentrealm_WakeUp )
->  8.调用播放气味方法，控制设备播放气味（安装了料盒会出现对应的气味）( Scentrealm_PlaySmell )
+1. 准备硬件设备：window系统的电脑（win7及以上版本），气味控制器，气味设备（脖戴式设备）
+2. 气味设备开机（绿灯慢闪），气味控制器连接到电脑上，控制器开机（红绿灯闪）
+3. 电脑安装 driver/CP210x_Windows_Drivers.zip 驱动
+4. win7系统可能需要安装vc_redist.x86.exe/vc_redist.x64.exe 程序，您可以先运行DllTest.exe程序进行测试，如果运行未报错，则无需安装
+5. 导入 scentrealm_bcc.dll
+6. 调用连接方法，连接控制器( Scentrealm_AutoConnectCTL/Scentrealm_ManualConnectCTL)
+7. 调用唤醒方法，唤醒气味设备
+8. 调用播放气味方法，控制设备播放气味（安装了料盒会出现对应的气味）
