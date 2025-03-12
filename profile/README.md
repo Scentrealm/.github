@@ -4,7 +4,7 @@
 
 ## 气味小播(蓝牙版)
 
-[蓝牙协议](https://github.com/Scentrealm/Bluetooth)
+[蓝牙协议文档](https://github.com/Scentrealm/Bluetooth)
 
 ## 气味小播(Wi-Fi版)
 
@@ -16,7 +16,7 @@
 
 *蓝牙版本的设备，统一采用相同的协议格式*
 
-[蓝牙协议](https://github.com/Scentrealm/Bluetooth)
+[蓝牙协议文档](https://github.com/Scentrealm/Bluetooth)
 
 [SDK](https://github.com/Scentrealm/neck-scent-player/tree/main/BluetoothSDK)
 
@@ -28,7 +28,7 @@
 
 ## 气味脖戴(433无线通讯)
 
-*433 无线通讯模块是一种常见的低功耗、短距离无线通讯模块，通常用于 IoT（物联网）设备和无线遥控系统中。它的工作频段为 433 MHz，适用于需要低数据传输速率和较短通讯距离的应用场景*
+> 433 无线通讯模块是一种常见的低功耗、短距离无线通讯模块，通常用于 IoT（物联网）设备和无线遥控系统中。它的工作频段为 433 MHz，适用于需要低数据传输速率和较短通讯距离的应用场景
 
 [驱动安装](https://github.com/Scentrealm/neck-scent-player/tree/main/driver)
 
